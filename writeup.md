@@ -52,6 +52,6 @@ Another potential improvement could be to curve lines on turns, to better unders
 
 ### 3. Suggest possible improvements to your pipeline
 
-A possible improvement would be to preserve previous condition could help to stay on road if it's hard to identify what's next
+A possible improvement would be to take on a count distance from shoulder\shoulders and divide by some constant
 
 Another potential improvement could be to change region of interest based on direction and move it left or right (also change it's form) it if car makes a turn
