@@ -37,11 +37,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 If you'd like to include images to show how the pipeline works, here is how to include an image: 
 
-[![Grayed image](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/gray_solidWhiteCurve.jpg)]
-[![Canny image](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/edges_solidWhiteCurve.jpg)]
-[![Image with region of interrest](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/masked_solidWhiteCurve.jpg)]
-[![After hough transformation](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/hough_solidWhiteCurve.jpg)]
-[![Result](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/solidWhiteCurve.jpg)]
+![Grayed image](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/gray_solidWhiteCurve.jpg)
+![Canny image](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/edges_solidWhiteCurve.jpg)
+![Image with region of interrest](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/masked_solidWhiteCurve.jpg)
+![After hough transformation](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/hough_solidWhiteCurve.jpg)
+![Result](https://github.com/debuggio/Udacity-SDC-FindingLaneLines/tree/master/test_images_output/solidWhiteCurve.jpg)
 
 
 ### 2. Identify potential shortcomings with your current pipeline
